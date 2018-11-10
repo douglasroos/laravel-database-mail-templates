@@ -1,11 +1,11 @@
 {
-    "name": "spatie/laravel-database-mail-templates",
+    "name": "douglasroos/laravel-database-mail-templates",
     "description": "Render Laravel mailables using a template stored in the database.",
     "keywords": [
-        "spatie",
+        "douglasroos",
         "laravel-database-mail-templates"
     ],
-    "homepage": "https://github.com/spatie/laravel-database-mail-templates",
+    "homepage": "https://github.com/douglasroos/laravel-database-mail-templates",
     "license": "MIT",
     "authors": [
         {
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^7.1",
-        "laravel/framework": "~5.7",
+        "laravel/framework": "~5.6",
         "mustache/mustache": "^2.12"
     },
     "require-dev": {
